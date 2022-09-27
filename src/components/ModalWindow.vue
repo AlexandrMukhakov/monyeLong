@@ -247,7 +247,7 @@ export default {
 
 .modal {
     position: absolute;
-    width: 576px;
+    width: 540px;
     height: 900px;
     overflow: hidden;
 

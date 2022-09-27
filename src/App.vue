@@ -23,7 +23,7 @@ export default {
   }
   @media screen and (max-width: 576px) {
     body {
-      width: 576px
+      width: 540px
     } 
   }
 </style>

@@ -123,4 +123,38 @@ export default {
     }
 }
 
+@media screen and (max-width: 576px) {
+
+.feedBack {
+    position: absolute;
+    width: 540px;
+    height: 900px;
+    overflow: hidden;
+
+}
+
+.modal-contentMess {
+    position: relative;
+    right: 48px;
+    width: 450px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.modal-dialogMess {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+
+}
+
+
 </style>

@@ -190,6 +190,9 @@ img {
     position: relative;
   }
 
+  p {
+    font-weight: bold;
+  }
 
   }
 
