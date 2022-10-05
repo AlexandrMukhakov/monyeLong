@@ -155,7 +155,6 @@ export default {
     border-style: none;
     font-weight: 500;
     color: rgb(245, 244, 244);
-    cursor: pointer;
 }
 
 .form-bottom {
@@ -167,14 +166,22 @@ export default {
     transition-duration: 0.4s;
     height: 50px;
     cursor: pointer;
-    border-radius: 50px;
+    border-radius: 30px;
+    position: absolute;
+    bottom: -80px;
+}
+
+.modal__title{
+    position: relative;
+    bottom: -105px;
 }
 
 .modal__close {
     width: 30px;
     position: absolute;
-    left: 1150px;
+    left: 910px;
     color: #fff;
+    cursor: pointer;
 }
 
 .modal-dialog {

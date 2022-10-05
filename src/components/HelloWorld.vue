@@ -193,6 +193,9 @@ img {
   p {
     font-weight: bold;
   }
+  .money{
+    color:aliceblue;
+  }
 
   }
 
